@@ -1,7 +1,19 @@
 This task two is concerned with "Building and Deploying a Testnet Token"
 I uploaded an entire repository with the title " Cryptical P Test Token" which I deployed on BSC Smart Chain Testnet.
 
-A Brief Summary:
-Name of Token: Cryptical P Test Token
-Ticker: TCP
-Supply: 100M Deflationary Value 
+A Brief Summary: 
+ Property | Value |
+
+| Name | Cryptical P TestToken |
+| Symbol | TCP |
+| Standard| BEP-20 (ERC-20 compatible) |
+| Network | BNB Smart Chain Testnet |
+| Chain ID | 97 |
+| Total Supply | 100,000,000 TCP |
+| Decimals | 18 |
+| Contract Address | `0xE9E3e39E91f51060318C0d46Be823fF387165A72` |
+| BscScan| https://testnet.bscscan.com/address/0xE9E3e39E91f51060318C0d46Be823fF387165A72 |
+
+See Repo here :  [ https://github.com/Paschalchibueze/cryptical-p-testtoken.git ] 
+
+Linkedlin Post: [ ]
